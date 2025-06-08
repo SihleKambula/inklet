@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954110455735",
+    "project_id": "inklet-25317",
+    "storage_bucket": "inklet-25317.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954110455735:android:b1c5f5760a8967febac232",
+        "android_client_info": {
+          "package_name": "com.kambulastudio.inklet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiNMvedOyBI9c3Iwf-KIV_VvTLpuRs-6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
